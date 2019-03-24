@@ -2,8 +2,7 @@ window.onload = function(){
 	header = document.getElementById("project-name");
 
 	header.onclick = function() {
-		window.location = "http://luizespindola.github.io/index.html";
-//		window.location = "file:///C:/Users/Luiz/workspace/introducaoinformatica/index.html";
+		window.location.href = 'index.html'
 	};
 	
 	content = document.getElementById("content");
