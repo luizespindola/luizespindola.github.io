@@ -1,1 +1,1 @@
-# unisul - Trabalho disciplina Introdução à Organização de Computadores
+# Unisul - Trabalho disciplina Introdução à Organização de Computadores
